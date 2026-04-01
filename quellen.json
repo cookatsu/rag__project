@@ -1,0 +1,32 @@
+[
+  {
+    "inhalt": "Cotton uses a lot of water",
+    "quelle": "UNEP",
+    "kategorie": "Material"
+  },
+  {
+    "inhalt": "Polyester creates microplastics",
+    "quelle": "UNEP",
+    "kategorie": "Material"
+  },
+  {
+    "inhalt": "Polyester is a synthetic fabric derived from petroleum. It is not biodegradable and can take hundreds of years to decompose.",
+    "quelle": "UNEP",
+    "kategorie": "Materialien"
+  },
+  {
+    "inhalt": "Polyester releases microplastics into water systems every time it is washed. These microplastics harm marine life and enter the food chain.",
+    "quelle": "UNEP",
+    "kategorie": "Materialien"
+  },
+  {
+    "inhalt": "The production of polyester requires large amounts of energy and generates significant CO2 emissions.",
+    "quelle": "Greenpeace",
+    "kategorie": "Materialien"
+  },
+  {
+    "inhalt": "Conventional cotton farming uses approximately 2,700 liters of water to produce one cotton t-shirt.",
+    "quelle": "Greenpeace",
+    "kategorie": "Materialien"
+  }
+]
