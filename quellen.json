@@ -20,7 +20,7 @@
 },
  
 {
-  "inhalt": "Der Konsum von Menschen wird maßgeblich von der Mode beeinflusst, und dieser trägt entscheidend zur Umweltbelastung der Branche bei.",
+  "inhalt": "Durch Trends und Werbung beinflusst die Modeindustrie stark welche Kleidung Menschen kaufen und wie häufig sie neue Produkte erwerben.",
   "quelle": "UNEP",
   "titel": "Sustainable Fashion",
   "kategorie": "Konsum"
@@ -31,10 +31,10 @@
   "inhalt": "Eine nachhaltige Kommunikation über Mode kann dazu dienen, das Bewusstsein der Verbraucher zu schärfen und sie zu nachhaltigeren Lebensweisen anzuregen.",
   "quelle": "UNEP",
   "titel": "Sustainable Fashion",
-  "kategorie": "Kommunikation"
+  "kategorie": "Konsum"
 }
 ,     {
-  "inhalt": "Zur Unterstützung von Veränderungen in der Branche kooperiert das UNEP mit verschiedenen Organisationen, die entlang der globalen Mode- und Textilproduktion tätig sind.",
+  "inhalt": "Das UNEP arbeitet mit verschiedenen Organisationen entlang der globalen Mode und Textilproduktion zusammen um Veränderungen in der Branche zu förder.",
   "quelle": "UNEP",
   "titel": "Sustainable Fashion",
   "kategorie": "Transformation"
@@ -48,7 +48,7 @@
 },
 
 {
-  "inhalt": "Ein wesentlicher Ansatz besteht darin, das Bewusstsein der Verbraucher zu schärfen, mehr Verantwortung in Unternehmen zu fördern und die politischen Maßnahmen zu verstärken.",
+  "inhalt": "Ein wichtiger Ansatz ist es das Bewusstsein der Verbraucher zu stärken, Unternehmen stärker in die Verantwortung zu nehmen und politische Maßnahmen für mehr Nachhaltigkeit auszubauen.",
   "quelle": "UNEP",
   "titel": "Sustainable Fashion",
   "kategorie": "Transformation"
@@ -75,6 +75,110 @@
   "inhalt": "Eine langfristige Zielsetzung besteht im Aufbau einer Textilindustrie, die auf Kreislaufwirtschaft ausgerichtet ist, Ressourcen schont und Umweltbelastungen verringert.",
   "quelle": "UNEP",
   "titel": "Sustainable Fashion",
+  "kategorie": "Umwelt"
+}
+,
+
+{
+  "inhalt": "Fast Fashion gründet sich auf raschen Modetrends, niedrige Preise und häufige Käufe neuer Artikel. Dies verursacht hohe Umweltbelastungen durch Abfall, Emissionen und Verschmutzung.",
+  "quelle": "UNEP",
+  "titel": "Environmental costs of fast fashion",
+  "kategorie": "Fast Fashion"
+}
+
+,
+
+{
+  "inhalt": "Aktionen wie der Black Friday machen deutlich, in welchem Ausmaß das Konsumverhalten zur Umweltbelastung beiträgt, da viele Produkte kurzfristig erworben und schnell wieder weggeworfen werden.",
+  "quelle": "UNEP",
+  "titel": "Environmental costs of fast fashion",
+  "kategorie": "Konsum"
+},
+
+{
+  "inhalt": "Auch wenn nachhaltige Mode existiert, kaufen Menschen heute deutlich mehr Kleidung als in der Vergangenheit und tragen diese gleichzeitig kürzer.",
+  "quelle": "UNEP",
+  "titel": "Environmental costs of fast fashion",
+  "kategorie": "Konsum"
+}
+
+,  {
+  "inhalt": "Die sich verstärkende Wegwerfmentalität in der Mode bewirkt, dass Kleidungsstücke oft dann entsorgt werden, sobald sich die Trends ändern.",
+  "quelle": "UNEP",
+  "titel": "Environmental costs of fast fashion",
+  "kategorie": "Fast Fashion"
+}
+,   {
+  "inhalt": "Da enorme Mengen an Textilien entweder deponiert oder verbrannt werden, trägt die Fast Fashion zur globalen Abfallkrise bei.",
+  "quelle": "UNEP",
+  "titel": "Environmental costs of fast fashion",
+  "kategorie": "Umwelt"
+}
+,
+{
+  "inhalt": "Laut Schätzungen wird jede Sekunde eine gesamte Lkw-Ladung an Bekleidung weggeworfen oder verbrannt, was die riesige Abfallmenge in der Modebranche aufzeigt.",
+  "quelle": "UNEP",
+  "titel": "Environmental costs of fast fashion",
+  "kategorie": "Umwelt"
+}, 
+
+{
+  "inhalt": "Die Herstellung von Bekleidung verursacht zahlreiche ökologische Herausforderungen, wie zum Beispiel die Verschmutzung von Wasser, den Einsatz von schädlichen Chemikalien und die Freisetzung von Schadstoffen.",
+  "quelle": "UNEP",
+  "titel": "Environmental costs of fast fashion",
+  "kategorie": "Produktion"
+},
+{
+  "inhalt": "Synthetische Textilien aus Bekleidung tragen zur Verunreinigung der Meere bei, indem sie winzige Plastikpartikel abgeben, die in die Gewässer gelangen.",
+  "quelle": "UNEP",
+  "titel": "Environmental costs of fast fashion",
+  "kategorie": "Umwelt"
+},
+
+{
+  "inhalt": "Zusätzlich zu den ökologischen Schwierigkeiten bringt Fast Fashion auch soziale Probleme mit sich, da oft Arbeiter, die schlecht bezahlt werden, in der Fertigung tätig sind.",
+  "quelle": "UNEP",
+  "titel": "Environmental costs of fast fashion",
+  "kategorie": "Produktion"
+},
+{
+  "inhalt": "Ein möglicher Ausweg aus den Schwierigkeiten der Bekleidungsbranche liegt in der Einführung eines zirkulären Wirtschaftsansatzes, der darauf fokussiert, Kleidungsstücke wiederholt einzusetzen, aufzubereiten und deren Lebensdauer zu steigern.",
+  "quelle": "UNEP",
+  "titel": "Environmental costs of fast fashion",
+  "kategorie": "Transformation"
+},
+
+{
+  "inhalt": "Projekte sowie Zusammenkünfte fokussieren sich zunehmend auf die Erarbeitung nachhaltigerer Möglichkeiten, damit Abfälle zu reduzieren und die Textilbranche ökologische Aspekte einzubinden.",
+  "quelle": "UNEP",
+  "titel": "Environmental costs of fast fashion",
+  "kategorie": "Politik"
+}
+,
+{
+  "inhalt": "Immer mehr Käufer fordern heute nachhaltigere Bekleidungsoptionen und Artikel mit besserer Haltbarkeit, weshalb Firmen dazu genötigt werden, ihre Produktionsabläufe grundlegend umzugestalten.",
+  "quelle": "UNEP",
+  "titel": "Environmental costs of fast fashion",
+  "kategorie": "Konsum"
+},
+
+{
+  "inhalt": "Die Idee vom Fast-Fashion-Business trifft zunehmend auf Ablehnung, weil sie auf massiver Produktion, schnellen Modetrends und billigen Preisen basiert.",
+  "quelle": "UNEP",
+  "titel": "Environmental costs of fast fashion",
+  "kategorie": "Fast Fashion"
+},
+
+{
+  "inhalt": "Ein Musterbeispiel für nachhaltige Innovationen innerhalb der Industrie bildet der Betrieb Patagonia, welcher sich verstärkt an ökologischen sowie klimatischen Leitlinien orientiert.",
+  "quelle": "UNEP",
+  "titel": "Environmental costs of fast fashion",
+  "kategorie": "Transformation"
+},
+{
+  "inhalt": "Projekte wie BeatPollution unterstreichen, dass es notwendig ist, gegen Umweltverschmutzung anzugehen, um das Klima, die Artenvielfalt und die Gesundheit zu schützen.",
+  "quelle": "UNEP",
+  "titel": "Environmental costs of fast fashion",
   "kategorie": "Umwelt"
 }
 ]
