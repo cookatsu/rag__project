@@ -142,7 +142,7 @@
   "kategorie": "Produktion"
 },
 {
-  "inhalt": "Ein möglicher Ausweg aus den Schwierigkeiten der Bekleidungsbranche liegt in der Einführung eines zirkulären Wirtschaftsansatzes, der darauf fokussiert, Kleidungsstücke wiederholt einzusetzen, aufzubereiten und deren Lebensdauer zu steigern.",
+ "inhalt": "Ein möglicher Lösungsansatz für die Probleme der Modeindustrie ist die Einführung einer Kreislaufwirtschaft, bei der Kleidung wiederverwendet, recycelt und länger genutzt wird.",
   "quelle": "UNEP",
   "titel": "Environmental costs of fast fashion",
   "kategorie": "Transformation"
@@ -180,5 +180,121 @@
   "quelle": "UNEP",
   "titel": "Environmental costs of fast fashion",
   "kategorie": "Umwelt"
+}
+
+,
+
+{
+  "inhalt": "Die Mode- und Textilindustrie verursacht durch Überproduktion und hohen Konsum erhebliche ökologische und soziale Probleme."
+  ,
+  "quelle": "UNEP",
+  "titel": "Unsustainable fashion and textiles",
+  "kategorie": "Fast Fashion"
+}
+,
+
+{
+  "inhalt": "Global entstehen jedes Jahr rund 92 Millionen Tonnen an Textilabfällen, wodurch die enorme Umweltbelastung, welche durch diese Branche verursacht wird, erkennbar bleibt.",
+  "quelle": "UNEP",
+  "titel": "Unsustainable fashion and textiles",
+  "kategorie": "Umwelt"
+}
+,
+
+{
+  "inhalt": "Von 2000 bis 2015 ist die Bekleidungsherstellung gestiegen, während die Haltbarkeit von Textilien deutlich gesunken ist.",
+  "quelle": "UNEP",
+  "titel": "Unsustainable fashion and textiles",
+  "kategorie": "Konsum"
+},
+
+{
+  "inhalt": "Die durchschnittliche Lebensdauer von Bekleidung ist um etwa 36 Prozent gesunken, was zu mehr Müll und einem gesteigerten Ressourcenverbrauch führt.",
+  "quelle": "UNEP",
+  "titel": "Unsustainable fashion and textiles",
+  "kategorie": "Konsum"
+},
+
+{
+  "inhalt": "Ein beachtlicher Teil des globalen Plastikabfalls resultiert aus der Bekleidungsbranche, besonders durch Kunststoffe in Textilien.",
+  "quelle": "UNEP",
+  "titel": "Unsustainable fashion and textiles",
+  "kategorie": "Umwelt"
+},
+{
+  "inhalt": "Lediglich ein geringer Prozentsatz der global hergestellten Textilfasern wird wiederverwertet, was die Unwirksamkeit der bestehenden Produktionsmethoden verdeutlicht.",
+  "quelle": "UNEP",
+  "titel": "Unsustainable fashion and textiles",
+  "kategorie": "Produktion"
+},
+
+{
+  "inhalt": "Altkleider werden oftmals in Staaten mit niedrigem Einkommen verschifft, wo sie häufig auf Mülldeponien entsorgt oder verbrannt werden.",
+  "quelle": "UNEP",
+  "titel": "Unsustainable fashion and textiles",
+  "kategorie": "Umwelt"
+},
+
+{
+  "inhalt": "In zahlreichen Staaten mangelt es an der nötigen Abfallinfrastruktur, was dazu führt, dass textile Abfälle ernsthafte Umwelt- und Gesundheitsrisiken hervorrufen.",
+  "quelle": "UNEP",
+  "titel": "Unsustainable fashion and textiles",
+  "kategorie": "Umwelt"
+},
+
+{
+  "inhalt": "Textilabfälle, die in städtischen Gebieten anfallen, finden häufig ihren Weg zu Mülldeponien, wo sie über viele Jahre hinweg nur wenig abgebaut werden und dabei Treibhausgase emittieren.",
+  "quelle": "UNEP",
+  "titel": "Unsustainable fashion and textiles",
+  "kategorie": "Umwelt"
+},
+
+{
+  "inhalt": "Ein Ansatz ohne Abfall kann dazu beitragen, den Wandel zu einer umweltfreundlicheren und kreislauforientierten Textilindustrie zu fördern.",
+  "quelle": "UNEP",
+  "titel": "Unsustainable fashion and textiles",
+  "kategorie": "Transformation"
+}
+,
+
+{
+  "inhalt": "Ein bedeutender Aspekt im Kampf gegen Klimawandel, Umweltverschmutzung und Biodiversitätsverlust ist nachhaltige Mode.",
+  "quelle": "UNEP",
+  "titel": "Unsustainable fashion and textiles",
+  "kategorie": "Umwelt"
+},
+
+{
+  "inhalt": "In der Modebranche basiert eine Kreislaufwirtschaft auf Wiederverwendung, Reparatur und langlebigen Produkten.",
+  "quelle": "UNEP",
+  "titel": "Unsustainable fashion and textiles",
+  "kategorie": "Transformation"
+},
+
+{
+  "inhalt": "Um die Modeindustrie nachhaltiger zu machen, ist es notwendig, dass Konsumenten, Unternehmen und Regierungen zusammenarbeiten.",
+  "quelle": "UNEP",
+  "titel": "Unsustainable fashion and textiles",
+  "kategorie": "Transformation"
+},
+
+{
+  "inhalt": "Insbesondere Städte leiden unter großen Mengen an Textilabfällen, da die vorhandenen Entsorgungssysteme oft überlastet sind.",
+  "quelle": "UNEP",
+  "titel": "Unsustainable fashion and textiles",
+  "kategorie": "Umwelt"
+},
+{
+  "inhalt": "Globale Events und Aktionen sollen das Bewusstsein für nachhaltigen Konsum und Abfallvermeidung im Bereich Mode fördern.",
+  "quelle": "UNEP",
+  "titel": "Unsustainable fashion and textiles",
+  "kategorie": "Konsum"
+},
+
+{
+  "inhalt": "Programme zur Wiederverwertung von Textilien können helfen, Abfälle zu verringern und Ressourcen effizienter einzusetzen.",
+  "quelle": "UNEP",
+  "titel": "Unsustainable fashion and textiles",
+  "kategorie": "Transformation"
 }
 ]
