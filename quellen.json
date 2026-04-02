@@ -1,32 +1,80 @@
 [
   {
-    "inhalt": "Cotton uses a lot of water",
-    "quelle": "UNEP",
-    "kategorie": "Material"
-  },
-  {
-    "inhalt": "Polyester creates microplastics",
-    "quelle": "UNEP",
-    "kategorie": "Material"
-  },
-  {
-    "inhalt": "Polyester is a synthetic fabric derived from petroleum. It is not biodegradable and can take hundreds of years to decompose.",
-    "quelle": "UNEP",
-    "kategorie": "Materialien"
-  },
-  {
-    "inhalt": "Polyester releases microplastics into water systems every time it is washed. These microplastics harm marine life and enter the food chain.",
-    "quelle": "UNEP",
-    "kategorie": "Materialien"
-  },
-  {
-    "inhalt": "The production of polyester requires large amounts of energy and generates significant CO2 emissions.",
-    "quelle": "Greenpeace",
-    "kategorie": "Materialien"
-  },
-  {
-    "inhalt": "Conventional cotton farming uses approximately 2,700 liters of water to produce one cotton t-shirt.",
-    "quelle": "Greenpeace",
-    "kategorie": "Materialien"
-  }
+  "inhalt": "Der Konsum von Kleidung hat unmittelbare Auswirkungen auf das Klima, da sowohl die Anzahl der neu erworbenen Artikel als auch deren Verwendung den CO2-Fußabdruck beeinflussen.",
+  "quelle": "UNEP",
+  "titel": "Sustainable Fashion",
+  "kategorie": "Konsum"
+},
+
+{
+  "inhalt": "Alle Beteiligten der Modeindustrie müssen zusammenarbeiten, um ihre Abläufe nachhaltiger zu gestalten, damit die Klimaziele des Pariser Abkommens erreicht werden können.",
+  "quelle": "UNEP",
+  "titel": "Sustainable Fashion",
+  "kategorie": "Transformation"
+}   ,
+{
+  "inhalt": "Die Werte, Identitäten und Verhaltensweisen von Menschen weltweit werden durch die enorme Marketingkraft der Modeindustrie beeinflusst.",
+  "quelle": "UNEP",
+  "titel": "Sustainable Fashion",
+  "kategorie": "Konsum"
+},
+ 
+{
+  "inhalt": "Der Konsum von Menschen wird maßgeblich von der Mode beeinflusst, und dieser trägt entscheidend zur Umweltbelastung der Branche bei.",
+  "quelle": "UNEP",
+  "titel": "Sustainable Fashion",
+  "kategorie": "Konsum"
+}
+,
+
+{
+  "inhalt": "Eine nachhaltige Kommunikation über Mode kann dazu dienen, das Bewusstsein der Verbraucher zu schärfen und sie zu nachhaltigeren Lebensweisen anzuregen.",
+  "quelle": "UNEP",
+  "titel": "Sustainable Fashion",
+  "kategorie": "Kommunikation"
+}
+,     {
+  "inhalt": "Zur Unterstützung von Veränderungen in der Branche kooperiert das UNEP mit verschiedenen Organisationen, die entlang der globalen Mode- und Textilproduktion tätig sind.",
+  "quelle": "UNEP",
+  "titel": "Sustainable Fashion",
+  "kategorie": "Transformation"
+}  ,  
+
+{
+  "inhalt": "Es soll ein Wandel in der Modeindustrie hin zu mehr Nachhaltigkeit, Fairness und Verantwortung vollzogen werden – weg von einem System der Ausbeutung und Wegwerfmentalität.",
+  "quelle": "UNEP",
+  "titel": "Sustainable Fashion",
+  "kategorie": "Transformation"
+},
+
+{
+  "inhalt": "Ein wesentlicher Ansatz besteht darin, das Bewusstsein der Verbraucher zu schärfen, mehr Verantwortung in Unternehmen zu fördern und die politischen Maßnahmen zu verstärken.",
+  "quelle": "UNEP",
+  "titel": "Sustainable Fashion",
+  "kategorie": "Transformation"
+},
+{
+  "inhalt": "Die COP26 brachte die Klimacharta der Modeindustrie hervor, in deren Rahmen Kommunikationsrichtlinien eingeführt wurden – ein erster Schritt.",
+  "quelle": "UNEP",
+  "titel": "Sustainable Fashion",
+  "kategorie": "Politik"
+}  ,  
+{
+  "inhalt": "In der Zukunft sollen globale Leitlinien ausgearbeitet werden, die Firmen unterstützen, ihre Kommunikation auf Nachhaltigkeitsziele auszurichten.",
+  "quelle": "UNEP",
+  "titel": "Sustainable Fashion",
+  "kategorie": "Politik"
+}, 
+{
+  "inhalt": "Ziel der UNEP-Arbeit ist es, den brancheninternen Zusammenhalt zu fördern und den Wandel hin zu einer nachhaltigen Textilwirtschaft voranzutreiben.",
+  "quelle": "UNEP",
+  "titel": "Sustainable Fashion",
+  "kategorie": "Transformation"
+}, 
+{
+  "inhalt": "Eine langfristige Zielsetzung besteht im Aufbau einer Textilindustrie, die auf Kreislaufwirtschaft ausgerichtet ist, Ressourcen schont und Umweltbelastungen verringert.",
+  "quelle": "UNEP",
+  "titel": "Sustainable Fashion",
+  "kategorie": "Umwelt"
+}
 ]
