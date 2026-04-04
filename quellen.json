@@ -553,6 +553,42 @@
     "titel": "Detox Fashion – Fashion Fairytale Report",
     "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
     "kategorie": "Transformation"
+  },
+
+  {
+    "inhalt": "In the last 20 years, global fibre production has almost doubled from 58 million tonnes to 116 million tonnes in 2022, and is expected to grow to 147 million tonnes in 2030 if business as usual continues.",
+    "quelle": "Geneva Environment Network",
+    "titel": "Sustainable Fashion Overview",
+    "url": "https://www.genevaenvironmentnetwork.org/resources/updates/sustainable-fashion/",
+    "kategorie": "Production"
+  },
+  {
+    "inhalt": "The fashion industry is the second-biggest consumer of water and is responsible for 2-8 % of global carbon emissions.",
+    "quelle": "Geneva Environment Network",
+    "titel": "Sustainable Fashion Overview",
+    "url": "https://www.genevaenvironmentnetwork.org/resources/updates/sustainable-fashion/",
+    "kategorie": "Environment"
+  },
+  {
+    "inhalt": "85% of all textiles go to the dump each year, and washing some types of clothes sends significant amounts of microplastics into the ocean.",
+    "quelle": "Geneva Environment Network",
+    "titel": "Sustainable Fashion Overview",
+    "url": "https://www.genevaenvironmentnetwork.org/resources/updates/sustainable-fashion/",
+    "kategorie": "Waste"
+  },
+  {
+    "inhalt": "60% of clothing and 70% of household textiles are made of synthetic fibres, which are a major source of microplastic pollution.",
+    "quelle": "Geneva Environment Network",
+    "titel": "Sustainable Fashion Overview",
+    "url": "https://www.genevaenvironmentnetwork.org/resources/updates/sustainable-fashion/",
+    "kategorie": "Materials"
+  },
+  {
+    "inhalt": "Traceability and transparency are essential for measurable and verifiable sustainability in the garment and footwear sector.",
+    "quelle": "Geneva Environment Network",
+    "titel": "Sustainable Fashion Overview",
+    "url": "https://www.genevaenvironmentnetwork.org/resources/updates/sustainable-fashion/",
+    "kategorie": "Policy"
   }
 
 ]
