@@ -1,6 +1,6 @@
 [
   {
-    "inhalt": "Addressing consumption is a central part of reducing climate impact from the volume of new products purchased to the carbon footprint of how we use these products.",
+    "inhalt": "Addressing consumption is a central part of reducing climate impact - from the volume of new products purchased to the carbon footprint of how we use these products.",
     "quelle": "UNEP",
     "titel": "Sustainable Fashion",
     "url": "https://www.unep.org/sustainable-fashion",
@@ -28,7 +28,7 @@
     "kategorie": "Waste"
   },
   {
-    "inhalt": "Eleven per cent of plastic waste comes from clothing and textiles, with only 8 per cent of textiles fibres in 2023 made from recycled sources.",
+    "inhalt": "Eleven per cent of plastic waste comes from clothing and textiles, with only 8 per cent of textile fibres in 2023 made from recycled sources.",
     "quelle": "UNEP",
     "titel": "Sustainable Fashion",
     "url": "https://www.unep.org/sustainable-fashion",
@@ -112,94 +112,6 @@
     "kategorie": "Transformation"
   }
 
-
-  ,
-
-
-  {
-    "inhalt": "The EU has a Strategy for Sustainable and Circular Textiles to create a greener textiles sector. The aim is a major shift inside the industry and among consumers, creating a whole new sustainable ecosystem for textiles by the end of this decade.",
-    "quelle": "European Commission",
-    "titel": "How the EU is making fashion sustainable",
-    "url": "https://environment.ec.europa.eu/topics/circular-economy-topics/reset-trend/how-eu-making-fashion-sustainable_en",
-    "kategorie": "Policy"
-  },
-  {
-    "inhalt": "The new approach looks at the entire lifecycle of textiles and proposes actions to change the way we produce and consume textiles. It means that all textile products must be durable, repairable and recyclable.",
-    "quelle": "European Commission",
-    "titel": "How the EU is making fashion sustainable",
-    "url": "https://environment.ec.europa.eu/topics/circular-economy-topics/reset-trend/how-eu-making-fashion-sustainable_en",
-    "kategorie": "Production"
-  },
-  {
-    "inhalt": "Did you know that 80% of a product’s environment footprint throughout its life cycle is determined when it is designed? This is why the EU will set new design requirements for textiles to make them last longer, easier to repair and recycle.",
-    "quelle": "European Commission",
-    "titel": "How the EU is making fashion sustainable",
-    "url": "https://environment.ec.europa.eu/topics/circular-economy-topics/reset-trend/how-eu-making-fashion-sustainable_en",
-    "kategorie": "Production"
-  },
-  {
-    "inhalt": "The textiles sector is one of the least sustainable industries worldwide. It is resource-intensive and wasteful. It is among the top three pressures on water and land use and the top five for raw materials use and greenhouse gas emissions worldwide.",
-    "quelle": "European Commission",
-    "titel": "How the EU is making fashion sustainable",
-    "url": "https://environment.ec.europa.eu/topics/circular-economy-topics/reset-trend/how-eu-making-fashion-sustainable_en",
-    "kategorie": "Environment"
-  },
-  {
-    "inhalt": "Fast fashion garments are designed to be disposable, so fast fashion encourages unnecessary over-consumption. This leads to excessive waste – much of which cannot be recycled.",
-    "quelle": "European Commission",
-    "titel": "How the EU is making fashion sustainable",
-    "url": "https://environment.ec.europa.eu/topics/circular-economy-topics/reset-trend/how-eu-making-fashion-sustainable_en",
-    "kategorie": "Consumption"
-  },
-  {
-    "inhalt": "The EU Strategy for Sustainable and Circular Textiles aims to create a greener textiles sector by the end of this decade.",
-    "quelle": "European Commission",
-    "titel": "How the EU is making fashion sustainable",
-    "url": "https://environment.ec.europa.eu/topics/circular-economy-topics/reset-trend/how-eu-making-fashion-sustainable_en",
-    "kategorie": "Policy"
-  },
-  {
-    "inhalt": "New requirements on minimum recycled content in textiles will be introduced to improve the circularity of the sector.",
-    "quelle": "European Commission",
-    "titel": "How the EU is making fashion sustainable",
-    "url": "https://environment.ec.europa.eu/topics/circular-economy-topics/reset-trend/how-eu-making-fashion-sustainable_en",
-    "kategorie": "Production"
-  },
-  {
-    "inhalt": "Clearer information on textiles and a Digital Product Passport will help Europeans make more sustainable choices.",
-    "quelle": "European Commission",
-    "titel": "How the EU is making fashion sustainable",
-    "url": "https://environment.ec.europa.eu/topics/circular-economy-topics/reset-trend/how-eu-making-fashion-sustainable_en",
-    "kategorie": "Policy"
-  },
-  {
-    "inhalt": "The Waste Framework Directive will be reviewed to focus on textiles and food waste reduction in the EU.",
-    "quelle": "European Commission",
-    "titel": "How the EU is making fashion sustainable",
-    "url": "https://environment.ec.europa.eu/topics/circular-economy-topics/reset-trend/how-eu-making-fashion-sustainable_en",
-    "kategorie": "Policy"
-  },
-  {
-    "inhalt": "Extended producer responsibility encourages companies to design products that are easier to recycle at the end of their life.",
-    "quelle": "European Commission",
-    "titel": "How the EU is making fashion sustainable",
-    "url": "https://environment.ec.europa.eu/topics/circular-economy-topics/reset-trend/how-eu-making-fashion-sustainable_en",
-    "kategorie": "Policy"
-  },
-  {
-    "inhalt": "Fast fashion turns the latest high-fashion designs into low-cost styles, but at a massive environmental cost.",
-    "quelle": "European Commission",
-    "titel": "How the EU is making fashion sustainable",
-    "url": "https://environment.ec.europa.eu/topics/circular-economy-topics/reset-trend/how-eu-making-fashion-sustainable_en",
-    "kategorie": "Fast Fashion"
-  },
-  {
-    "inhalt": "The textiles sector is resource-intensive and wasteful, putting significant pressure on global raw materials use.",
-    "quelle": "European Commission",
-    "titel": "How the EU is making fashion sustainable",
-    "url": "https://environment.ec.europa.eu/topics/circular-economy-topics/reset-trend/how-eu-making-fashion-sustainable_en",
-    "kategorie": "Environment"
-  }
 ,
 
 
@@ -218,7 +130,7 @@
     "kategorie": "Production"
   },
   {
-    "inhalt": "Did you know that 80% of a product’s environment footprint throughout its life cycle is determined when it is designed? This is why the EU will set new design requirements for textiles to make them last longer, easier to repair and recycle.",
+    "inhalt": "80% of a product’s environmental footprint throughout its life cycle is determined when it is designed. This is why the EU will set new design requirements for textiles to make them last longer, easier to repair and recycle.",
     "quelle": "European Commission",
     "titel": "How the EU is making fashion sustainable",
     "url": "https://environment.ec.europa.eu/topics/circular-economy-topics/reset-trend/how-eu-making-fashion-sustainable_en",
@@ -357,202 +269,6 @@
     "titel": "Detox Fashion – Fashion Fairytale Report",
     "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
     "kategorie": "Policy"
-  },
-  {
-    "inhalt": "The fashion industry must transition to a model that respects planetary boundaries and ensures social justice for workers.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "Hazardous chemicals used in textile production can persist in the environment and bioaccumulate in the food chain.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Environment"
-  },
-  {
-    "inhalt": "The 'take-make-waste' model of the fashion industry is fundamentally incompatible with a sustainable future.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Fast Fashion"
-  },
-  {
-    "inhalt": "Slowing down fashion means producing fewer, higher-quality garments that are designed to last for years, not weeks.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "Microplastic pollution from synthetic textiles is a global environmental threat that requires urgent action at the source.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Environment"
-  },
-  {
-    "inhalt": "Regenerative fashion models aim to restore ecosystems and support local communities rather than just minimizing harm.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "The fashion industry must be held responsible for the entire lifecycle of its products, including end-of-life management.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Policy"
-  },
-  {
-    "inhalt": "True sustainability in fashion requires a fundamental rethink of our relationship with clothing and consumption.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "The fashion industry is a major contributor to global water scarcity and pollution, especially in production regions.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Environment"
-  },
-  {
-    "inhalt": "The use of toxic dyes in the fashion industry has devastating impacts on the health of workers and local ecosystems.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Environment"
-  },
-  {
-    "inhalt": "Fast fashion brands often use vague sustainability claims to distract from their overall environmental impact.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Greenwashing"
-  },
-  {
-    "inhalt": "The fashion industry must move away from the constant pressure for growth and embrace a steady-state economy model.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "Sustainable fashion is not just about materials; it's about changing the entire system of production and consumption.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "The fashion industry's impact on biodiversity is often overlooked but is significant due to land use and pollution.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Environment"
-  },
-  {
-    "inhalt": "We need a global treaty on plastic pollution that includes specific measures to address microplastics from textiles.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Policy"
-  },
-  {
-    "inhalt": "The fashion industry must ensure that the transition to sustainability is just and inclusive for all workers in the supply chain.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "The rise of ultra-fast fashion brands has further accelerated the environmental and social crisis of the industry.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Fast Fashion"
-  },
-  {
-    "inhalt": "Sustainable fashion requires a long-term perspective that values durability and timeless design over fleeting trends.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "The fashion industry must be transparent about its chemical use and commit to a zero-discharge policy for hazardous substances.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Policy"
-  },
-  {
-    "inhalt": "The environmental cost of fashion is often hidden from consumers, leading to a lack of awareness about the true impact of their purchases.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Consumption"
-  },
-  {
-    "inhalt": "The fashion industry must embrace a culture of care and repair to extend the life of garments and reduce waste.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "The transition to sustainable fashion is an urgent necessity to protect the planet and ensure a livable future for all.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "The fashion industry has the potential to be a force for good if it embraces sustainability and social responsibility.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "The fashion industry must be held accountable for its role in the global climate and environmental emergency.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Policy"
-  },
-  {
-    "inhalt": "Sustainable fashion is a journey that requires continuous improvement and collaboration across the entire industry.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "The fashion industry must listen to the voices of those most affected by its negative impacts and work towards a more equitable future.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "The future of fashion depends on our ability to transform the industry into one that is truly sustainable and ethical.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "The fashion industry must act now to reduce its environmental footprint and protect the planet for future generations.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion – Fashion Fairytale Report",
-    "url": "https://www.greenpeace.de/publikationen/20211122-greenpeace-detox-fashion-fairytale-engl-pt1.pdf",
-    "kategorie": "Transformation"
   },
 
   {
