@@ -1,936 +1,116 @@
 [
   {
-  "inhalt": "Der Konsum von Kleidung hat unmittelbare Auswirkungen auf das Klima, da sowohl die Anzahl der neu erworbenen Artikel als auch deren Verwendung den CO2-Fußabdruck beeinflussen.",
-  "quelle": "UNEP",
-  "titel": "Sustainable Fashion",
-  "kategorie": "Konsum"
-},
-
-
-
- 
-
-
-{
-  "inhalt": "Eine nachhaltige Kommunikation über Mode kann dazu dienen, das Bewusstsein der Verbraucher zu schärfen und sie zu nachhaltigeren Lebensweisen anzuregen.",
-  "quelle": "UNEP",
-  "titel": "Sustainable Fashion",
-  "kategorie": "Konsum"
-}
-,  
-{
-  "inhalt": "Es soll ein Wandel in der Modeindustrie hin zu mehr Nachhaltigkeit, Fairness und Verantwortung vollzogen werden – weg von einem System der Ausbeutung und Wegwerfmentalität.",
-  "quelle": "UNEP",
-  "titel": "Sustainable Fashion",
-  "kategorie": "Transformation"
-},
-
-
-{
-  "inhalt": "Die COP26 brachte die Klimacharta der Modeindustrie hervor, in deren Rahmen Kommunikationsrichtlinien eingeführt wurden – ein erster Schritt.",
-  "quelle": "UNEP",
-  "titel": "Sustainable Fashion",
-  "kategorie": "Politik"
-}  ,  
-
-
-
-
-{
-  "inhalt": "Fast Fashion gründet sich auf raschen Modetrends, niedrige Preise und häufige Käufe neuer Artikel. Dies verursacht hohe Umweltbelastungen durch Abfall, Emissionen und Verschmutzung.",
-  "quelle": "UNEP",
-  "titel": "Environmental costs of fast fashion",
-  "kategorie": "Fast Fashion"
-}
-
-,
-
-{
-  "inhalt": "Aktionen wie der Black Friday machen deutlich, in welchem Ausmaß das Konsumverhalten zur Umweltbelastung beiträgt, da viele Produkte kurzfristig erworben und schnell wieder weggeworfen werden.",
-  "quelle": "UNEP",
-  "titel": "Environmental costs of fast fashion",
-  "kategorie": "Konsum"
-}
-
-,  {
-  "inhalt": "Die sich verstärkende Wegwerfmentalität in der Mode bewirkt, dass Kleidungsstücke oft dann entsorgt werden, sobald sich die Trends ändern.",
-  "quelle": "UNEP",
-  "titel": "Environmental costs of fast fashion",
-  "kategorie": "Fast Fashion"
-}
-,   {
-  "inhalt": "Da enorme Mengen an Textilien entweder deponiert oder verbrannt werden, trägt die Fast Fashion zur globalen Abfallkrise bei.",
-  "quelle": "UNEP",
-  "titel": "Environmental costs of fast fashion",
-  "kategorie": "Umwelt"
-}
-,
-{
-  "inhalt": "Laut Schätzungen wird jede Sekunde eine gesamte Lkw-Ladung an Bekleidung weggeworfen oder verbrannt, was die riesige Abfallmenge in der Modebranche aufzeigt.",
-  "quelle": "UNEP",
-  "titel": "Environmental costs of fast fashion",
-  "kategorie": "Umwelt"
-}, 
-
-{
-  "inhalt": "Die Herstellung von Bekleidung verursacht zahlreiche ökologische Herausforderungen, wie zum Beispiel die Verschmutzung von Wasser, den Einsatz von schädlichen Chemikalien und die Freisetzung von Schadstoffen.",
-  "quelle": "UNEP",
-  "titel": "Environmental costs of fast fashion",
-  "kategorie": "Produktion"
-},
-{
-  "inhalt": "Synthetische Textilien aus Bekleidung tragen zur Verunreinigung der Meere bei, indem sie winzige Plastikpartikel abgeben, die in die Gewässer gelangen.",
-  "quelle": "UNEP",
-  "titel": "Environmental costs of fast fashion",
-  "kategorie": "Umwelt"
-},
-
-{
-  "inhalt": "Zusätzlich zu den ökologischen Schwierigkeiten bringt Fast Fashion auch soziale Probleme mit sich, da oft Arbeiter, die schlecht bezahlt werden, in der Fertigung tätig sind.",
-  "quelle": "UNEP",
-  "titel": "Environmental costs of fast fashion",
-  "kategorie": "Produktion"
-},
-{
- "inhalt": "Ein möglicher Lösungsansatz für die Probleme der Modeindustrie ist die Einführung einer Kreislaufwirtschaft, bei der Kleidung wiederverwendet, recycelt und länger genutzt wird.",
-  "quelle": "UNEP",
-  "titel": "Environmental costs of fast fashion",
-  "kategorie": "Transformation"
-},
-
-
-{
-  "inhalt": "Immer mehr Käufer fordern heute nachhaltigere Bekleidungsoptionen und Artikel mit besserer Haltbarkeit, weshalb Firmen dazu genötigt werden, ihre Produktionsabläufe grundlegend umzugestalten.",
-  "quelle": "UNEP",
-  "titel": "Environmental costs of fast fashion",
-  "kategorie": "Konsum"
-},
-
-{
-  "inhalt": "Die Idee vom Fast-Fashion-Business trifft zunehmend auf Ablehnung, weil sie auf massiver Produktion, schnellen Modetrends und billigen Preisen basiert.",
-  "quelle": "UNEP",
-  "titel": "Environmental costs of fast fashion",
-  "kategorie": "Fast Fashion"
-},
-
-
-
-,
-
-{
-  "inhalt": "Die Mode- und Textilindustrie verursacht durch Überproduktion und hohen Konsum erhebliche ökologische und soziale Probleme."
-  ,
-  "quelle": "UNEP",
-  "titel": "Unsustainable fashion and textiles",
-  "kategorie": "Fast Fashion"
-}
-,
-
-
-{
-  "inhalt": "Global entstehen jedes Jahr rund 92 Millionen Tonnen an Textilabfällen, wodurch die enorme Umweltbelastung, welche durch diese Branche verursacht wird, erkennbar bleibt.",
-  "quelle": "UNEP",
-  "titel": "Unsustainable fashion and textiles",
-  "kategorie": "Umwelt"
-}
-,
-
-{
-  "inhalt": "Von 2000 bis 2015 ist die Bekleidungsherstellung gestiegen, während die Haltbarkeit von Textilien deutlich gesunken ist.",
-  "quelle": "UNEP",
-  "titel": "Unsustainable fashion and textiles",
-  "kategorie": "Konsum"
-},
-
-{
-  "inhalt": "Die durchschnittliche Lebensdauer von Bekleidung ist um etwa 36 Prozent gesunken, was zu mehr Müll und einem gesteigerten Ressourcenverbrauch führt.",
-  "quelle": "UNEP",
-  "titel": "Unsustainable fashion and textiles",
-  "kategorie": "Konsum"
-},
-
-{
-  "inhalt": "Ein beachtlicher Teil des globalen Plastikabfalls resultiert aus der Bekleidungsbranche, besonders durch Kunststoffe in Textilien.",
-  "quelle": "UNEP",
-  "titel": "Unsustainable fashion and textiles",
-  "kategorie": "Umwelt"
-},
-
-
-{
-  "inhalt": "Altkleider werden oftmals in Staaten mit niedrigem Einkommen verschifft, wo sie häufig auf Mülldeponien entsorgt oder verbrannt werden.",
-  "quelle": "UNEP",
-  "titel": "Unsustainable fashion and textiles",
-  "kategorie": "Umwelt"
-},
-
-{
-  "inhalt": "In zahlreichen Staaten mangelt es an der nötigen Abfallinfrastruktur, was dazu führt, dass textile Abfälle ernsthafte Umwelt- und Gesundheitsrisiken hervorrufen.",
-  "quelle": "UNEP",
-  "titel": "Unsustainable fashion and textiles",
-  "kategorie": "Umwelt"
-},
-
-{
-  "inhalt": "Textilabfälle, die in städtischen Gebieten anfallen, finden häufig ihren Weg zu Mülldeponien, wo sie über viele Jahre hinweg nur wenig abgebaut werden und dabei Treibhausgase emittieren.",
-  "quelle": "UNEP",
-  "titel": "Unsustainable fashion and textiles",
-  "kategorie": "Umwelt"
-},
-
-{
-  "inhalt": "Ein Ansatz ohne Abfall kann dazu beitragen, den Wandel zu einer umweltfreundlicheren und kreislauforientierten Textilindustrie zu fördern.",
-  "quelle": "UNEP",
-  "titel": "Unsustainable fashion and textiles",
-  "kategorie": "Transformation"
-}
-,
-
-{
-  "inhalt": "Ein bedeutender Aspekt im Kampf gegen Klimawandel, Umweltverschmutzung und Biodiversitätsverlust ist nachhaltige Mode.",
-  "quelle": "UNEP",
-  "titel": "Unsustainable fashion and textiles",
-  "kategorie": "Umwelt"
-},
-
-{
-  "inhalt": "In der Modebranche basiert eine Kreislaufwirtschaft auf Wiederverwendung, Reparatur und langlebigen Produkten.",
-  "quelle": "UNEP",
-  "titel": "Unsustainable fashion and textiles",
-  "kategorie": "Transformation"
-},
-
-{
-  "inhalt": "Um die Modeindustrie nachhaltiger zu machen, ist es notwendig, dass Konsumenten, Unternehmen und Regierungen zusammenarbeiten.",
-  "quelle": "UNEP",
-  "titel": "Unsustainable fashion and textiles",
-  "kategorie": "Transformation"
-},
-
-{
-  "inhalt": "Insbesondere Städte leiden unter großen Mengen an Textilabfällen, da die vorhandenen Entsorgungssysteme oft überlastet sind.",
-  "quelle": "UNEP",
-  "titel": "Unsustainable fashion and textiles",
-  "kategorie": "Umwelt"
-},
-
-
-
-
-{
-  "inhalt": "In Kleidungsstücken von globalen Modemarken wurden diverse schädliche Chemikalien wie NPEs, Phthalate und krebserzeugende Amine identifiziert.",
-  "quelle": "Greenpeace",
-  "titel": "Toxic Threads",
-  "kategorie": "Chemikalien"
-},
-
-
-{
-  "inhalt": "Die Tatsache, dass ein erheblicher Anteil der geprüften Kleidungsstücke Nonylphenolethoxylate beinhaltete, zeigt die weitreichende Verwendung dieser Substanzen in der globalen Textilproduktion.",
-  "quelle": "Greenpeace",
-  "titel": "Toxic Threads",
-  "kategorie": "Chemikalien"
-},
-
-
-
-
-{
-  "inhalt": "In unterschiedlichen Phasen der Produktion kommen gefährliche Chemikalien zum Einsatz, etwa beim Färben, Bedrucken und Verarbeiten von Textilien.",
-  "quelle": "Greenpeace",
-  "titel": "Toxic Threads",
-  "kategorie": "Produktion"
-},
-
-
-
-
-{
-  "inhalt": "Aufgrund unzureichender Regulierung finden toxische Chemikalien aus der Textilproduktion über Abwässer ihren Weg in Flüsse, Seen und andere Gewässer.",
-  "quelle": "Greenpeace",
-  "titel": "Toxic Threads",
-  "kategorie": "Umwelt"
-},
-
-
-
-
-{
-  "inhalt": "Beim Waschen von Textilien werden chemische Rückstände freigesetzt, was dazu führt, dass Verbraucher unbewusst zur Umweltverschmutzung beitragen.",
-  "quelle": "Greenpeace",
-  "titel": "Toxic Threads",
-  "kategorie": "Konsum"
-},
-
-
-
-{
-  "inhalt": "In der Umwelt zersetzen sich NPEs zu Nonylphenol, einem langlebigen und toxischen Stoff mit hormonellen Auswirkungen, der in der Nahrungskette akkumuliert.",
-  "quelle": "Greenpeace",
-  "titel": "Toxic Threads",
-  "kategorie": "Umwelt"
-},
-
-
-
-{
-  "inhalt": "Auch entsorgte Kleidung kann Phthalate und andere Schadstoffe freisetzen, die dann in Böden und Grundwasser eindringen.",
-  "quelle": "Greenpeace",
-  "titel": "Toxic Threads",
-  "kategorie": "Umwelt"
-
-}
-
-
-,
-{
-  "inhalt": "Selbst in Gebieten, in denen bestimmte Chemikalien reguliert sind, bringt die globale Textilindustrie schadstoffbelastete Kleidung weltweit hervor.",
-  "quelle": "Greenpeace",
-  "titel": "Toxic Threads",
-  "kategorie": "Produktion"
-},
-
-
-
-{
-  "inhalt": "Vom Herstellungsprozess über den Gebrauch bis hin zur Entsorgung kann während des gesamten Lebenszyklus eines Textils gefährliche Chemikalien freigesetzt werden.",
-  "quelle": "Greenpeace",
-  "titel": "Toxic Threads",
-  "kategorie": "Umwelt"
-},
-{
-
-
-  "inhalt": "Viele Modeunternehmen haben bislang nicht ausreichende Maßnahmen ergriffen, um den Einsatz von gefährlichen Chemikalien in ihren Lieferketten zu verringern.",
-  "quelle": "Greenpeace",
-  "titel": "Toxic Threads",
-  "kategorie": "Transformation"
-},
-
-
-
-{
-  "inhalt": "Ein wesentliches Ziel ist es, gefährliche Chemikalien vollständig zu eliminieren, indem sichere Alternativen verwendet und die Verantwortung der Hersteller verstärkt wird.",
-  "quelle": "Greenpeace",
-  "titel": "Toxic Threads",
-  "kategorie": "Transformation"
-},
-
-
-
-{
-  "inhalt": "Regierungen sollten Maßnahmen umsetzen, die darauf abzielen, gefährliche Chemikalien vollständig davon abzuhalten, in die Umwelt eingeführt zu werden.",
-  "quelle": "Greenpeace",
-  "titel": "Toxic Threads",
-  "kategorie": "Politik"
-},
-
-
-
-{
-  "inhalt": "Um nachvollziehen zu können, an welchen Stellen Chemikalien eingesetzt und freigesetzt werden, ist eine transparente Lieferkette notwendig.",
-  "quelle": "Greenpeace",
-  "titel": "Toxic Threads",
-  "kategorie": "Transformation"
-},
-
-
-{
-    "inhalt": "Die Textilindustrie von heute verwendet ihre Rohstoffe hauptsächlich aus der Landwirtschaft, aus Wäldern oder aus fossilen Quellen wie Erdöl, was eine enorme Belastung für die Umwelt darstellt.",
-    "quelle": "Textile Exchange",
-   "titel": "Materials",
-    "kategorie": "Materialien"
+    "inhalt": "Addressing consumption is a central part of reducing climate impact from the volume of new products purchased to the carbon footprint of how we use these products.",
+    "quelle": "UNEP",
+    "titel": "Sustainable Fashion",
+    "url": "https://www.unep.org/sustainable-fashion",
+    "kategorie": "Consumption"
   },
   {
-    "inhalt": "Die Climate+-Strategie hat als eines ihrer Hauptziele die Reduktion der Treibhausgasemissionen in der Faser- und Rohstoffproduktion bis zum Jahr 2030 um 45 % – zur Unterstützung des 1,5-Grad-Ziels.",
-    "quelle": "Textile Exchange",
-    "titel": "Materials",
-    "kategorie": "Umwelt"
+    "inhalt": "Fashion possesses one of the most powerful marketing engines on earth. Brands, designers, imagemakers and the media have a major influence on the identities, values and actions of billions of people across all segments of society.",
+    "quelle": "UNEP",
+    "titel": "Sustainable Fashion",
+    "url": "https://www.unep.org/sustainable-fashion",
+    "kategorie": "Consumption"
   },
   {
-    "inhalt": "Für nachhaltige Mode ist ein umfassender Ansatz nötig, der neben dem Klima auch die Bodengesundheit, Biodiversität und den Schutz der Wasserressourcen berücksichtigt.",
-    "quelle": "Textile Exchange",
-   "titel": "Materials",
-    "kategorie": "Umwelt"
+    "inhalt": "The aim is to shift the fashion narrative from one of extraction, exploitation and disposable consumption, towards regeneration, equity and care by increasing consumer awareness, industry accountability and policy breakthroughs.",
+    "quelle": "UNEP",
+    "titel": "Sustainable Fashion",
+    "url": "https://www.unep.org/sustainable-fashion",
+    "kategorie": "Policy"
   },
   {
-    "inhalt": "Die am meisten verwendete Naturfaser ist Baumwolle. Ihr konventioneller Anbau ist jedoch oft mit einem hohen Chemikalieneinsatz verbunden, was lokalen Ökosystemen und Gemeinschaften schadet.",
-    "quelle": "Textile Exchange",
-    "titel": "Materials",
-    "kategorie": "Materialien"
-  },
-
-  {
-    "inhalt": "Mit über 50 % des globalen Fasermarktes basiert Polyester größtenteils auf fossilen Brennstoffen, was den Übergang zu recycelten Alternativen notwendig macht.",
-    "quelle": "Textile Exchange",
-    "titel": "Materials",
-    "kategorie": "Materialien"
+    "inhalt": "Every year, 92 million tonnes of textile waste is produced globally. Production doubled from 2000 to 2015, while the duration of garment use decreased by 36 per cent.",
+    "quelle": "UNEP",
+    "titel": "Sustainable Fashion",
+    "url": "https://www.unep.org/sustainable-fashion",
+    "kategorie": "Waste"
   },
   {
-    "inhalt": "Damit echte Kreisläufe entstehen können, sollten Firmen ihr Augenmerk verstärkt auf textile-to-textile-Recycling richten, anstatt nur auf PET-Flaschen-Recycling zu setzen.",
-    "quelle": "Textile Exchange",
-    "titel": "Materials",
+    "inhalt": "Eleven per cent of plastic waste comes from clothing and textiles, with only 8 per cent of textiles fibres in 2023 made from recycled sources.",
+    "quelle": "UNEP",
+    "titel": "Sustainable Fashion",
+    "url": "https://www.unep.org/sustainable-fashion",
+    "kategorie": "Waste"
+  },
+  {
+    "inhalt": "Unsustainable fashion is aggravating the triple planetary crisis of climate change, nature, land and biodiversity loss, and pollution and waste.",
+    "quelle": "UNEP",
+    "titel": "Sustainable Fashion",
+    "url": "https://www.unep.org/sustainable-fashion",
+    "kategorie": "Environment"
+  },
+  {
+    "inhalt": "The Ellen Macarthur Foundation, a UNEP partner, has estimated that a truckload of abandoned textiles is dumped in landfill or incinerated every second.",
+    "quelle": "UNEP",
+    "titel": "Environmental costs of fast fashion",
+    "url": "https://www.unep.org/news-and-stories/story/environmental-costs-fast-fashion",
+    "kategorie": "Waste"
+  },
+  {
+    "inhalt": "Plastic fibres are polluting the oceans, the wastewater, toxic dyes, and the exploitation of underpaid workers. Fast fashion is big business, and while the environmental costs are rising, experts say there is another way: a circular economy for textiles.",
+    "quelle": "UNEP",
+    "titel": "Environmental costs of fast fashion",
+    "url": "https://www.unep.org/news-and-stories/story/environmental-costs-fast-fashion",
+    "kategorie": "Environment"
+  },
+  {
+    "inhalt": "The fast fashion business model of quick turnover, high volume, cheap prices is under pressure from consumers who are demanding change. They want resilient garments from a sustainable industry, a goal supported by the UN Alliance for Sustainable Fashion.",
+    "quelle": "UNEP",
+    "titel": "Environmental costs of fast fashion",
+    "url": "https://www.unep.org/news-and-stories/story/environmental-costs-fast-fashion",
+    "kategorie": "Consumption"
+  },
+  {
+    "inhalt": "The Sustainable Fashion Communication Playbook provides a practical guide for fashion communicators to contribute to sustainable change by shifting the narrative of the sector.",
+    "quelle": "UNEP",
+    "titel": "Sustainable Fashion",
+    "url": "https://www.unep.org/sustainable-fashion",
+    "kategorie": "Policy"
+  },
+  {
+    "inhalt": "The International Day of Zero Waste highlights the importance of bolstering waste management globally and rethinking fashion consumption.",
+    "quelle": "UNEP",
+    "titel": "Sustainable Fashion",
+    "url": "https://www.unep.org/sustainable-fashion",
+    "kategorie": "Waste"
+  },
+  {
+    "inhalt": "Textile and fashion waste in cities often end up in landfills, where it takes decades to decompose and releases harmful greenhouse gases.",
+    "quelle": "UNEP",
+    "titel": "Sustainable Fashion",
+    "url": "https://www.unep.org/sustainable-fashion",
+    "kategorie": "Waste"
+  },
+  {
+    "inhalt": "A zero-waste approach is key to the required transition to more circular approaches in the fashion and textiles industry.",
+    "quelle": "UNEP",
+    "titel": "Sustainable Fashion",
+    "url": "https://www.unep.org/sustainable-fashion",
     "kategorie": "Transformation"
   },
   {
-    "inhalt": "Der Organic Content Standard (OCS) hat zum Ziel, den Anteil biologisch erzeugter Materialien in Produkten zu überprüfen und somit glaubwürdige Nachhaltigkeitsaussagen zu schaffen.",
-    "quelle": "Textile Exchange",
-    "titel": "Materials",
-    "kategorie": "Standards"
-  },
-
-
-  {
-    "inhalt": "Mit Standards wie dem Global Recycled Standard (GRS) wird gewährleistet, dass recycelte Produkte unter Beachtung sozialer und ökologischer Kriterien verarbeitet werden.",
-    "quelle": "Textile Exchange",
-    "titel": "Materials",
-    "kategorie": "Standards"
-  },
-
-
-  {
-    "inhalt": "Ökologische Anforderungen werden durch den Responsible Wool Standard (RWS) verschärft, was das Wohlergehen der Schafe verbessert und die Weideflächen schützt.",
-    "quelle": "Textile Exchange",
-    "titel": "Materials",
-    "kategorie": "Standards"
-  },
-
-
-  {
-    "inhalt": "Der Content Claim Standard (CCS) sorgt dafür, dass Rohstoffe über die gesamte Lieferkette rückverfolgbar sind. Dies erhöht die Transparenz für Marken.",
-    "quelle": "Textile Exchange",
-    "titel": "Materials",
-    "kategorie": "Standards"
-  }
-  ,
-
-
-
-
-  {
-    "inhalt": "Um die Klimaziele der Modebranche im Rahmen der Climate+ Vision zu erreichen, müssen die Emissionen bis 2030 auf 180-190 Millionen Tonnen CO2e reduziert werden.",
-    "quelle": "Textile Exchange",
-    "titel": "Materials",
-    "kategorie": "Umwelt"
-  },
-
-
-  {
-    "inhalt": "Unabhängige Zertifizierungsstellen führen Audits durch, um sicherzustellen, dass Unternehmen die strengen Anforderungen der Nachhaltigkeitsstandards tatsächlich erfüllen.",
-    "quelle": "Textile Exchange",
-    "titel": "Materials",
-    "kategorie": "Standards"
-  }
-
-,
-
-
-
-  {
-    "inhalt": "Greenpeace’ Detox-Kampagne hat demonstriert, dass es möglich ist, gefährliche Chemikalien aus der Textillieferkette zu entfernen, wenn Marken Verantwortung für ihre Produktionsprozesse übernehmen.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion",
+    "inhalt": "The United Wardrobe Project transforms textile waste into a cycle of reuse and renewal, cutting CO2 emissions and conserving water.",
+    "quelle": "UNEP",
+    "titel": "Sustainable Fashion",
+    "url": "https://www.unep.org/sustainable-fashion",
     "kategorie": "Transformation"
   },
   {
-    "inhalt": "Trotz der Fortschritte bei der Verringerung des Chemikalieneinsatzes bleibt die enorme Überproduktion von Kleidung eines der Hauptprobleme für Klima und Biodiversität.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion",
-    "kategorie": "Fast Fashion"
-  },
-  {
-    "inhalt": "Die Textilindustrie ist verantwortlich für schätzungsweise 3 bis 10 Prozent der globalen Treibhausgasemissionen, wobei ein erheblicher Teil der Produktion in Ländern des globalen Südens erfolgt.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion",
-    "kategorie": "Umwelt"
-  },
- 
-
-  {
-    "inhalt": "Um einen nachhaltigen Wandel herbeizuführen, müssen die Produktionsmengen verringert und die Produktqualität verbessert werden, statt sich nur auf technisches Recycling zu stützen.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion",
+    "inhalt": "Textiles-as-a-service models, like leasing repairable garments, foster sustainability and educate new generations on waste reduction.",
+    "quelle": "UNEP",
+    "titel": "Sustainable Fashion",
+    "url": "https://www.unep.org/sustainable-fashion",
     "kategorie": "Transformation"
   },
   {
-    "inhalt": "Das Recycling von PET-Flaschen zu Polyester wird oft kritisiert, weil diese Textilien am Ende ihres Lebenszyklus meist nicht wieder recycelt werden können.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "Weniger als 1 % der global produzierten Bekleidung wird aufgrund technischer Schwierigkeiten bei Mischfasern und anderer Faktoren zu neuen Textilien recycelt.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion",
-    "kategorie": "Produktion"
-  },
-  {
-    "inhalt": "Eine direkte Folge der Überproduktion ist die Zerstörung von nicht verkaufter Neuware, die aufgrund der Intransparenz in der Modeindustrie oft verborgen bleibt.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion",
-    "kategorie": "Fast Fashion"
-  },
-  {
-    "inhalt": "Nachhaltigere Geschäftsmodelle setzen stärker auf Reparatur, Verleih und den Wiederverkauf gebrauchter Kleidung.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "Da freiwillige Selbstverpflichtungen der Industrie als unzureichend angesehen werden, sind strengere gesetzliche Regelungen erforderlich, um Umweltstandards durchzusetzen.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion",
-    "kategorie": "Politik"
-  },
-  {
-    "inhalt": "Die Herstellung von Kunstfasern aus fossilen Rohstoffen hat einen erheblichen Anteil an der Klimakrise und setzt beim Waschen Mikroplastik frei.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion",
-    "kategorie": "Umwelt"
-  },
-  {
-    "inhalt": "Zwar ist der konventionelle Anbau von Baumwolle mit einem relativ geringen Flächenbedarf verbunden, jedoch geht er mit einer hohen Verwendung von Pestiziden und Insektiziden einher.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion",
-    "kategorie": "Materialien"
-  },
-  {
-    "inhalt": "Einige Modefirmen verwenden Pilotprojekte zur Kreislaufwirtschaft hauptsächlich als Marketinginstrument, ohne ihr grundlegendes Geschäftsmodell zu verändern.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion",
-    "kategorie": "Fast Fashion"
-  },
-  {
-    "inhalt": "Wenn Kleidung länger genutzt wird, kann ihr ökologischer Fußabdruck pro Stück deutlich verringert werden.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion",
-    "kategorie": "Konsum"
-  },
-  {
-    "inhalt": "Die Verlagerung von Produktionsprozessen, die schädliche Auswirkungen auf die Umwelt haben, in Länder mit weniger strengen Vorschriften verdeutlicht, dass es globaler Standards und Kontrollen bedarf.",
-    "quelle": "Greenpeace",
-    "titel": "Detox Fashion",
-    "kategorie": "Politik"
-  }
-
-
-,
-
-
-  
-
-  {
-    "inhalt": "Ohne grundlegende Veränderungen könnten die globalen Emissionen der Bekleidungsindustrie bis 2030 um bis zu 50 % zunehmen.",
-    "quelle": "Earth.Org",
-    "titel": "10 Concerning Fast Fashion Waste Statistics",
-    "kategorie": "Umwelt"
-  }
-  
-  ,
-  
-  
-  {
-    "inhalt": "Jährlich entsorgt ein durchschnittlicher US-Verbraucher etwa 37 kg Kleidung, was insgesamt über 11 Millionen Tonnen Textilmüll ausmacht.",
-    "quelle": "Earth.Org",
-    "titel": "10 Concerning Fast Fashion Waste Statistics",
-    "kategorie": "Konsum"
-  
-  },
-  
-  
-  
-  {
-    "inhalt": "Vor der Entsorgung werden viele Kleidungsstücke nur 7 bis 10 Mal getragen.",
-    "quelle": "Earth.Org",
-    "titel": "10 Concerning Fast Fashion Waste Statistics",
-    "kategorie": "Konsum"
-  },
-  
-  
-  
-  {
-    "inhalt": "Etwa 20 % der globalen Abwasserverschmutzung gehen auf die Modeindustrie zurück, vor allem durch Färbe- und Veredelungsverfahren.",
-    "quelle": "Earth.Org",
-    "titel": "10 Concerning Fast Fashion Waste Statistics",
-    "kategorie": "Umwelt"
-  },
-  
-  
-  
-  
-  {
-    "inhalt": "Ein Baumwoll-T-Shirt benötigt rund 2.700 Liter Wasser, was dem Trinkwasserbedarf einer Person über mehrere Jahre entspricht.",
-    "quelle": "Earth.Org",
-    "titel": "10 Concerning Fast Fashion Waste Statistics",
-    "kategorie": "Materialien"
-  },
-  
-  
-  {
-    "inhalt": "Weltweit entgehen jährlich etwa 500 Milliarden Dollar, weil Kleidung zu selten genutzt und nicht recycelt wird.",
-    "quelle": "Earth.Org",
-    "titel": "10 Concerning Fast Fashion Waste Statistics",
-    "kategorie": "Transformation"
-  },
-  
-  
-  {
-    "inhalt": "Weltweit werden lediglich rund 12 % der für Kleidung verwendeten Materialien recycelt.",
-    "quelle": "Earth.Org",
-    "titel": "10 Concerning Fast Fashion Waste Statistics",
-    "kategorie": "Transformation"
-  },
-  
-
-
-  {
-    "inhalt": "Online-Retouren führen zu hohen CO2-Emissionen. Zudem werden viele retournierter Kleidungsstücke nicht wiederverkauft, sondern entsorgt.",
-    "quelle": "Earth.Org",
-    "titel": "10 Concerning Fast Fashion Waste Statistics",
-    "kategorie": "Konsum"
-  },
-  
-  
-  
-  {
-    "inhalt": "Heutzutage stellen Fast-Fashion-Marken etwa zwei Mal so viele Kleidungsstücke her wie im Jahr 2000.",
-    "quelle": "Earth.Org",
-    "titel": "10 Concerning Fast Fashion Waste Statistics",
-    "kategorie": "Produktion"
-  },
-  
-  
-  {
-    "inhalt": "Schon während der Produktion gehen etwa 15 % des Materials durch Zuschnitt und Produktionsverluste verloren.",
-    "quelle": "Earth.Org",
-    "titel": "10 Concerning Fast Fashion Waste Statistics",
-    "kategorie": "Produktion"
-  },
-  
-  
-  {
-    "inhalt": "Die Entsorgung eines großen Teils der produzierten Kleidung nach kurzer Zeit verdeutlicht die Ineffizienz des aktuellen Systems.",
-    "quelle": "Earth.Org",
-    "titel": "10 Concerning Fast Fashion Waste Statistics",
-    "kategorie": "Fast Fashion"
-  },
-
-  
-  
-
-  
-  {
-    "inhalt": "Slow Fashion ist ein Ansatz, der Wert auf Qualität, Langlebigkeit und bewusstes Konsumverhalten legt – wichtiger als schnelle Modetrends und Massenproduktion.",
-    "quelle": "Earth.Org",
-    "titel": "Sustainable Alternatives to Fast Fashion",
+    "inhalt": "Pioneering initiatives redirect post-consumer textiles from landfills to markets via textile recovery facilities to close the loop.",
+    "quelle": "UNEP",
+    "titel": "Sustainable Fashion",
+    "url": "https://www.unep.org/sustainable-fashion",
     "kategorie": "Transformation"
   }
-  
-  ,
-  {
-    "inhalt": "Die EU-Strategie für nachhaltige und kreislauffähige Textilien hat das Ziel, bis zum Ende dieses Jahrzehnts ein nachhaltiges Textilökosystem zu etablieren.",
-    "quelle": "EU-Kommission",
-    "titel": "Learn what the EU does on sustainable fashion and RESet the Trend",
-    "kategorie": "Politik"
-  },
-  {
-    "inhalt":"Alle Textilprodukte in der EU sollten eine lange Lebensdauer haben, reparierbar sein und recycelt werden können.",
-    "quelle": "EU-Kommission",
-    "titel": "Learn what the EU does on sustainable fashion and RESet the Trend",
-    "kategorie": "Politik"
-  },
-  {
-    "inhalt": "Bereits in der Designphase werden etwa 80 % des ökologischen Fußabdrucks eines Produkts bestimmt.",
-    "quelle": "EU-Kommission",
-    "titel": "Learn what the EU does on sustainable fashion and RESet the Trend",
-    "kategorie": "Umwelt"
-  },
-  {
-    "inhalt": "Um die Lebensdauer von Textilien zu verlängern und Reparatur sowie Recycling zu erleichtern, wird die EU neue Designanforderungen einführen.",
-    "quelle": "EU-Kommission",
-    "titel": "Learn what the EU does on sustainable fashion and RESet the Trend",
-    "kategorie": "Politik"
-  },
-  {
-    "inhalt": "Ein digitaler Produktpass soll Auskunft über die ökologische Nachhaltigkeit von Textilien geben.",
-    "quelle": "EU-Kommission",
-    "titel": "Learn what the EU does on sustainable fashion and RESet the Trend",
-    "kategorie": "Umwelt"
-  },
-  {
-    "inhalt": "In Fabriken weltweit werden 25 % bis 40 % aller verwendeten Materialien zu Resten oder Abfall.",
-    "quelle": "EU-Kommission",
-    "titel": "Learn what the EU does on sustainable fashion and RESet the Trend",
-    "kategorie": "Umwelt"
-  },
-  {
-    "inhalt": "In den vergangenen 20 Jahren hat sich die Menge gebrauchter Textilien, die aus der EU exportiert werden, verdreifacht.",
-    "quelle": "EU-Kommission",
-    "titel": "Learn what the EU does on sustainable fashion and RESet the Trend",
-    "kategorie": "Politik"
-  },
-  {
-    "inhalt": "Beim Waschen synthetischer Textilien kann bis zu 35 % des gesamten Mikroplastiks in der Umwelt entstehen.",
-    "quelle": "EU-Kommission",
-    "titel": "Learn what the EU does on sustainable fashion and RESet the Trend",
-    "kategorie": "Umwelt"
-  },
-  {
-    "inhalt": "Es wird geschätzt, dass jährlich rund 500.000 Tonnen Mikroplastik aus Plastikbekleidung in Gewässer gelangen.",
-    "quelle": "EU-Kommission",
-    "titel": "Learn what the EU does on sustainable fashion and RESet the Trend",
-    "kategorie": "Umwelt"
-  },
-  {
-    "inhalt": "Eine Untersuchung hat ergeben, dass 39 % der Nachhaltigkeitsbehauptungen im Textil-, Bekleidungs- und Schuhsektor möglicherweise falsch oder irreführend sind (Greenwashing).",
-    "quelle": "EU-Kommission",
-    "titel": "Learn what the EU does on sustainable fashion and RESet the Trend",
-    "kategorie": "Politik"
-  },
-  {
-    "inhalt": "Die EU will stärker gegen Greenwashing vorgehen. Unbelegte Begriffe wie „öko“ oder „umweltfreundlich“ sollen nicht mehr verwendet werden.",
-    "quelle": "EU-Kommission",
-    "titel": "Learn what the EU does on sustainable fashion and RESet the Trend",
-    "kategorie": "Politik"
-  },
-  {
-    "inhalt": "Weltweit zählt die Textilindustrie zu den drei größten Verursachern von Wasser- und Landverbrauch und zu den fünf größten in Bezug auf Rohstoffverbrauch und Treibhausgasemissionen.",
-    "quelle": "EU-Kommission",
-    "titel": "Learn what the EU does on sustainable fashion and RESet the Trend",
-    "kategorie": "Produktion"
-  },
-  {
-    "inhalt": "Zwischen 2000 und 2015 hat sich die globale Textilproduktion verdoppelt.",
-    "quelle": "EU-Kommission",
-    "titel": "Learn what the EU does on sustainable fashion and RESet the Trend",
-    "kategorie": "Allgemein"
-  },
-  {
-    "inhalt": "Bis zum Jahr 2030 wird ein Anstieg des Verbrauchs von Schuhen und Kleidung um mehr als das Doppelte erwartet.",
-    "quelle": "EU-Kommission",
-    "titel": "Learn what the EU does on sustainable fashion and RESet the Trend",
-    "kategorie": "Allgemein"
-  },
-  {
-    "inhalt": "Mit einem Wert von 1,3 Billionen USD und über 300 Millionen weltweit beschäftigten Personen ist die Bekleidungsindustrie ein bedeutender Sektor.",
-    "quelle": "Geneva Environment Network",
-    "titel": "Environmental Sustainability in the Fashion Industry",
-    "kategorie": "Allgemein"
-  },
-  {
-    "inhalt": "Die Produktion von Fasern weltweit ist von 58 Millionen Tonnen im Jahr 2000 auf 116 Millionen Tonnen im Jahr 2022 nahezu verdoppelt worden.",
-    "quelle": "Geneva Environment Network",
-    "titel": "Environmental Sustainability in the Fashion Industry",
-    "kategorie": "Produktion"
-  },
-  {
-    "inhalt": "Ohne Änderungen wird die Faserproduktion bis 2030 voraussichtlich auf 147 Millionen Tonnen ansteigen.",
-    "quelle": "Geneva Environment Network",
-    "titel": "Environmental Sustainability in the Fashion Industry",
-    "kategorie": "Produktion"
-  },
-  {
-    "inhalt": "Im Jahr 2014 lag die Anzahl der gekauften Kleidungsstücke 60 % über dem Wert von 2000, wobei die Behaltedauer nur halb so lang war.",
-    "quelle": "Geneva Environment Network",
-    "titel": "Environmental Sustainability in the Fashion Industry",
-    "kategorie": "Allgemein"
-  },
-  {
-    "inhalt": "Der Wasserverbrauch der Modeindustrie ist weltweit auf dem zweiten Platz.",
-    "quelle": "Geneva Environment Network",
-    "titel": "Environmental Sustainability in the Fashion Industry",
-    "kategorie": "Umwelt"
-  },
-  {
-    "inhalt": "Jedes Jahr werden 85 % aller Textilien weggeworfen.",
-    "quelle": "Geneva Environment Network",
-    "titel": "Environmental Sustainability in the Fashion Industry",
-    "kategorie": "Allgemein"
-  },
-  {
-    "inhalt": "Etwa 60 % der Materialien, die in der Modeindustrie verwendet werden, sind aus Kunststoff gefertigt.",
-    "quelle": "Geneva Environment Network",
-    "titel": "Environmental Sustainability in the Fashion Industry",
-    "kategorie": "Fast Fashion"
-  },
-  {
-    "inhalt": "Die Textil-Wertschöpfungskette beansprucht jährlich 215 Billionen Liter Wasser, was 86 Millionen olympischen Schwimmbecken entspricht.",
-    "quelle": "Geneva Environment Network",
-    "titel": "Environmental Sustainability in the Fashion Industry",
-    "kategorie": "Allgemein"
-  },
-  {
-    "inhalt": "Etwa 20 % des globalen industriellen Abwasserverschmutzungsaufkommens sind auf die Modebranche zurückzuführen.",
-    "quelle": "Geneva Environment Network",
-    "titel": "Environmental Sustainability in the Fashion Industry",
-    "kategorie": "Fast Fashion"
-  },
-  {
-    "inhalt": "Weniger als 1 % des Materials, das für die Herstellung von Kleidung verwendet wird, wird recycelt, um neue Kleidungsstücke zu produzieren. Dies führt zu einem Wertverlust von über 100 Milliarden USD.",
-    "quelle": "Geneva Environment Network",
-    "titel": "Environmental Sustainability in the Fashion Industry",
-    "kategorie": "Umwelt"
-  },
-  {
-    "inhalt": "Um die Textil-Wertschöpfungskette nachhaltiger zu gestalten, werden jährlich schätzungsweise 20 bis 30 Milliarden USD zusätzlich benötigt.",
-    "quelle": "Geneva Environment Network",
-    "titel": "Environmental Sustainability in the Fashion Industry",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "Seit Ende der 1990er Jahre ist Polyester die meistgenutzte Faser in Bekleidung.",
-    "quelle": "Geneva Environment Network",
-    "titel": "Environmental Sustainability in the Fashion Industry",
-    "kategorie": "Allgemein"
-  },
-  {
-    "inhalt": "Im Jahr 2020 betrug der Anteil synthetischer Fasern an der globalen Faserproduktion etwa 64 %.",
-    "quelle": "Geneva Environment Network",
-    "titel": "Environmental Sustainability in the Fashion Industry",
-    "kategorie": "Produktion"
-  },
-  {
-    "inhalt": "Heutzutage wird geschätzt, dass 60 % der Bekleidung und 70 % der Haushaltstextilien aus synthetischen Fasern bestehen.",
-    "quelle": "Geneva Environment Network",
-    "titel": "Environmental Sustainability in the Fashion Industry",
-    "kategorie": "Allgemein"
-  },
-  {
-    "inhalt": "Jährlich bewertet der Fashion Transparency Index die 250 größten globalen Modemarken und Einzelhändler bezüglich ihrer Offenlegung sozialer und ökologischer Richtlinien sowie Praktiken.",
-    "quelle": "Fashion Revolution",
-    "titel": "Fashion Transparency Index",
-    "kategorie": "Politik"
-  },
- 
-  {
-    "inhalt": "Durch die öffentliche Offenlegung von Informationen können Marken für ihre Behauptungen zur Verantwortung gezogen werden.",
-    "quelle": "Fashion Revolution",
-    "titel": "Fashion Transparency Index",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "Der Einsturz des Rana-Plaza-Gebäudes hat gezeigt, wie gefährlich intransparente Lieferketten sein können.",
-    "quelle": "Fashion Revolution",
-    "titel": "Fashion Transparency Index",
-    "kategorie": "Produktion"
-  },
-  {
-    "inhalt": "Unternehmen können nicht sicherstellen, dass Menschenrechte eingehalten werden und sichere Arbeitsbedingungen herrschen, wenn sie die Produktionsorte nicht kennen.",
-    "quelle": "Fashion Revolution",
-    "titel": "Fashion Transparency Index",
-    "kategorie": "Produktion"
-  },
-  {
-    "inhalt": "Die globalen Lieferketten in der Modeindustrie bleiben komplex, fragmentiert, dereguliert und schwer durchschaubar.",
-    "quelle": "Fashion Revolution",
-    "titel": "Fashion Transparency Index",
-    "kategorie": "Produktion"
-  },
-  {
-    "inhalt": "Unzureichende Sichtbarkeit in den Lieferketten trägt zur Entstehung von ausbeuterischen und unsicheren Arbeitsbedingungen sowie Umweltschäden bei.",
-    "quelle": "Fashion Revolution",
-    "titel": "Fashion Transparency Index",
-    "kategorie": "Umwelt"
-  },
- 
-  {
-    "inhalt":"Die Mode- und Textilindustrie muss ihren steigenden Ressourcenverbrauch verringern und stärker innerhalb planetarer Grenzen denken.",
-    "quelle": "Stockholm Resilience Centre",
-    "titel": "A sustainable and resilient circular fashion and textiles industry",
-    "kategorie": "Umwelt"
-  },
-  {
-    "inhalt": "Sechs planetare Prioritäten werden festgelegt: CO2-Emissionen verringern, Verlust der Biodiversität stoppen, Landnutzungsänderungen minimieren, Nährstoffeffizienz steigern, chemische Schadstoffe reduzieren und Wasser nachhaltig nutzen.",
-    "quelle": "Stockholm Resilience Centre",
-    "titel": "A sustainable and resilient circular fashion and textiles industry",
-    "kategorie": "Umwelt"
-  },
-  {
-    "inhalt": "Um bis 2050 Klimaneutralität zu erreichen, soll die CO2-Emission ab 2020 mindestens um 8 % pro Jahr gesenkt werden.",
-    "quelle": "Stockholm Resilience Centre",
-    "titel": "A sustainable and resilient circular fashion and textiles industry",
-    "kategorie": "Umwelt"
-  },
-  {
-    "inhalt": "Die Zielsetzung für die Industrie sollte sein, 30 % der Erde unter Schutz zu stellen und einen Nettoverlust an Lebensräumen zu vermeiden.",
-    "quelle": "Stockholm Resilience Centre",
-    "titel": "A sustainable and resilient circular fashion and textiles industry",
-    "kategorie": "Produktion"
-  },
-  {
-    "inhalt": "Es ist notwendig, die Abholzung zu beenden und den Anteil von Klimaschutz orientierter Landwirtschaft an der Materialproduktion zu verdrei- fachen.",
-    "quelle": "Stockholm Resilience Centre",
-    "titel": "A sustainable and resilient circular fashion and textiles industry",
-    "kategorie": "Allgemein"
-  },
-  {
-    "inhalt": "Der Bezug von Süßwasser sollte um 30 % verringert werden.",
-    "quelle": "Stockholm Resilience Centre",
-    "titel": "A sustainable and resilient circular fashion and textiles industry",
-    "kategorie": "Allgemein"
-  },
-  {
-    "inhalt": "Pestizide sollen um 50 % reduziert und die Freisetzung von Chemikalien, die als hochgefährlich gelten, gänzlich verhindert werden.",
-    "quelle": "Stockholm Resilience Centre",
-    "titel": "A sustainable and resilient circular fashion and textiles industry",
-    "kategorie": "Umwelt"
-  },
-  {
-    "inhalt": "Kreislaufwirtschaft umfasst nicht nur das Schließen von „Loops“, sondern auch die Neudefinition von Abfall als Ressource und die Berücksichtigung der Regenerationsfähigkeit der Erde.",
-    "quelle": "Stockholm Resilience Centre",
-    "titel": "A sustainable and resilient circular fashion and textiles industry",
-    "kategorie": "Umwelt"
-  },
-  {
-    "inhalt": "Kleine und mittlere Unternehmen (KMU) sind entscheidend für die Innovation in Richtung naturpositiver Lieferketten in der Modeindustrie.",
-    "quelle": "CUSP (Centre for the Understanding of Sustainable Prosperity)",
-    "titel": "Support For SMEs’ Contributions to Tackling the Nature and Biodiversity Crisis in the Fashion and Textile Industries",
-    "kategorie": "Produktion"
-  },
-  {
-    "inhalt": "Die gravierendsten Belastungen für die Umwelt treten in der Anfangs- und Endphase des Lebenszyklus auf: bei der Gewinnung und Aufbereitung von Rohstoffen sowie am Ende des Lebenszyklus.",
-    "quelle": "CUSP (Centre for the Understanding of Sustainable Prosperity)",
-    "titel": "Support For SMEs’ Contributions to Tackling the Nature and Biodiversity Crisis in the Fashion and Textile Industries",
-    "kategorie": "Produktion"
-  },
-  {
-    "inhalt": "Um die schädlichen Folgen einer Intensivierung der Landwirtschaft zu verhindern, richten sich innovative KMU auf natürliche Fasern aus regenerativen Quellen.",
-    "quelle": "CUSP (Centre for the Understanding of Sustainable Prosperity)",
-    "titel": "Support For SMEs’ Contributions to Tackling the Nature and Biodiversity Crisis in the Fashion and Textile Industries",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "Eine glaubwürdige Nachhaltigkeitsberichterstattung erfordert Rückverfolgbarkeit (Traceability) und eine lückenlose Überwachungskette (Chain of Custody).",
-    "quelle": "CUSP (Centre for the Understanding of Sustainable Prosperity)",
-    "titel": "Support For SMEs’ Contributions to Tackling the Nature and Biodiversity Crisis in the Fashion and Textile Industries",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt": "Die verwendeten Kennzahlen für KMU umfassen: Landnutzung (regenerative Landwirtschaft), Kohlenstoffbindung im Boden, Wasserverbrauch, Reduzierung von Chemikalien und biologische Abbaubarkeit.",
-    "quelle": "CUSP (Centre for the Understanding of Sustainable Prosperity)",
-    "titel": "Support For SMEs’ Contributions to Tackling the Nature and Biodiversity Crisis in the Fashion and Textile Industries",
-    "kategorie": "Umwelt"
-  },
 
-
-  
-  {
-    "inhalt": "Um die Herkunft besser kontrollieren zu können, wächst das Interesse an der Rückverlagerung (Re-Shoring) der Faserproduktion.",
-    "quelle": "CUSP (Centre for the Understanding of Sustainable Prosperity)",
-    "titel": "Support For SMEs’ Contributions to Tackling the Nature and Biodiversity Crisis in the Fashion and Textile Industries",
-    "kategorie": "Produktion"
-  },
-  {
-    "inhalt": "Die Bedeutung von Naturmaterialien wie Wolle, Hanf und Flachs für eine nachhaltige Mode wird oft noch nicht ausreichend gewürdigt.",
-    "quelle": "CUSP (Centre for the Understanding of Sustainable Prosperity)",
-    "titel": "Support For SMEs’ Contributions to Tackling the Nature and Biodiversity Crisis in the Fashion and Textile Industries",
-    "kategorie": "Transformation"
-  },
-  {
-    "inhalt":"Nur 14 % der befragten Modefirmen wissen genau, in welchen Ländern ihre Rohstoffe gewonnen oder angebaut werden.",
-    "quelle": "CUSP (Centre for the Understanding of Sustainable Prosperity)",
-    "titel": "Support For SMEs’ Contributions to Tackling the Nature and Biodiversity Crisis in the Fashion and Textile Industries",
-    "kategorie": "Produktion"
-  }
 
 ]
