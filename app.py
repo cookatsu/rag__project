@@ -16,8 +16,16 @@ class RAGSystem:
         query_embedding = self.model.encode([query])
         query_embedding = np.array(query_embedding).astype('float32')
         distances, indices = self.index.search(query_embedding, k)
-        context_parts = [self.data[i]["inhalt"] for i in indices[0]]
-        sources = [self.data[i]["quelle"] for i in indices[0]]
+        context_parts = []
+        sources = []
+        for i in indices[0]:
+            eintrag = self.data[i]
+            context_parts.append(eintrag["inhalt"])
+            sources.append({    
+                  "quelle": eintrag["quelle"],
+                  "titel": eintrag["titel"],
+                 "url": eintrag["url"]
+        })   
         return context_parts, sources
 
     def generate_answer(self, query, context_text, ollama_model="llama3"):
@@ -78,7 +86,8 @@ def main():
             if "sources" in message and message["sources"]:
                 with st.expander("Verwendete Quellen"):
                     for s in message["sources"]:
-                        st.write(f"- {s}")
+                        st.write(f"- {s['titel']} ({s['quelle']})")
+                        st.write(s["url"])
 
     # Benutzereingabe
     if prompt := st.chat_input("Stellen Sie eine Frage..."):
@@ -95,12 +104,20 @@ def main():
                 
                 st.markdown(answer)
                 
-                unique_sources = list(set(sources))
+                unique_sources = []
+                seen_urls = set()
+
+                for s in sources:
+                    if s["url"] not in seen_urls:
+                        unique_sources.append(s)
+                        seen_urls.add(s["url"])
+
+                
                 if unique_sources:
                     with st.expander("Verwendete Quellen"):
                         for s in unique_sources:
-                            st.write(f"- {s}")
-                
+                            st.write(f"- {s['titel']} ({s['quelle']})")
+                            st.write(s["url"])
                 # Antwort im Verlauf speichern
                 st.session_state.messages.append({
                     "role": "assistant", 
