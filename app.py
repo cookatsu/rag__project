@@ -6,13 +6,13 @@ import numpy as np
 import requests
 
 class RAGSystem:
-    def __init__(self, model_name='all-MiniLM-L6-v2', index_path="faiss_index.index", data_path="quellen.json"):
+    def __init__(self, model_name='paraphrase-multilingual-MiniLM-L12-v2', index_path="faiss_index.index", data_path="quellen.json"):
         self.model = SentenceTransformer(model_name)
         self.index = faiss.read_index(index_path)
         with open(data_path, "r", encoding="utf-8") as f:
             self.data = json.load(f)
 
-    def get_context(self, query, k=3):
+    def get_context(self, query, k=5):
         query_embedding = self.model.encode([query])
         query_embedding = np.array(query_embedding).astype('float32')
         distances, indices = self.index.search(query_embedding, k)
@@ -32,13 +32,10 @@ class RAGSystem:
         prompt = f"""
         Beantworte die Frage basierend nur auf dem bereitgestellten Kontext.
         Falls die Antwort nicht im Kontext steht, sage dass du es nicht weißt.
-
         Kontext:
         {context_text}
-
         Frage:
         {query}
-
         Antwort:
         """
         try:
@@ -53,8 +50,6 @@ class RAGSystem:
 
 def main():
     st.set_page_config(page_title="RAG Knowledge Assistant", page_icon="💬", layout="centered")
-    
-    # CSS für ein schöneres Interface
     st.markdown("""
         <style>
         .stApp { background-color: #f8f9fa; }
@@ -75,11 +70,9 @@ def main():
         st.error(f"Systemfehler beim Laden der Daten: {e}")
         return
 
-    # Chat-Verlauf initialisieren
     if "messages" not in st.session_state:
         st.session_state.messages = []
 
-    # Chat-Verlauf anzeigen
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
             st.markdown(message["content"])
@@ -89,14 +82,12 @@ def main():
                         st.write(f"- {s['titel']} ({s['quelle']})")
                         st.write(s["url"])
 
-    # Benutzereingabe
     if prompt := st.chat_input("Stellen Sie eine Frage..."):
-        # User Nachricht anzeigen
+
         st.session_state.messages.append({"role": "user", "content": prompt})
         with st.chat_message("user"):
             st.markdown(prompt)
 
-        # Assistant Antwort generieren
         with st.chat_message("assistant"):
             with st.spinner("Suche läuft..."):
                 context_parts, sources = rag.get_context(prompt)
@@ -118,7 +109,6 @@ def main():
                         for s in unique_sources:
                             st.write(f"- {s['titel']} ({s['quelle']})")
                             st.write(s["url"])
-                # Antwort im Verlauf speichern
                 st.session_state.messages.append({
                     "role": "assistant", 
                     "content": answer,
