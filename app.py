@@ -13,10 +13,10 @@ class RAGSystem:
             self.data = json.load(f)
 
     def get_context(self, query, k=5):
-        #embediing für die nutzerfrage
+       
         query_embedding = self.model.encode([query])
         query_embedding = np.array(query_embedding).astype('float32')
-        #ähnl stelle im faiss finden
+        
         distances, indices = self.index.search(query_embedding, k)
         context_parts = []
         sources = []
@@ -78,7 +78,7 @@ def main():
                     for s in message["sources"]:
                         st.write(f"- {s['titel']} ({s['quelle']})")
                         st.write(s["url"])
-#generiert antwort
+
     if prompt := st.chat_input("Ihre Frage zur nachhaltigen Mode..."):
         st.session_state.messages.append({"role": "user", "content": prompt})
         with st.chat_message("user"):

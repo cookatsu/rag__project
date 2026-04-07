@@ -1,6 +1,7 @@
 # Praxisprojekt: Retrieval-Augmented Generation (RAG) System
 
-Dieses Projekt implementiert ein funktionsfähiges RAG-System, das Antworten auf Fragen basierend auf einer lokalen Wissensbasis generiert. Es kombiniert semantische Suche mit einem lokalen Large Language Model (LLM).
+In diesem Projekt habe ich ein einfaches System gebaut, das Fragen auf Basis von lokalen Daten beantwortet.  
+Es kombiniert eine Suche in Texten mit einem Sprachmodell (LLM), um passende Antworten zu geben.  
 
 ## Systemarchitektur
 
@@ -15,8 +16,9 @@ Das System besteht aus folgenden Komponenten:
 
 - Python 3.8+
 - [Ollama](https://ollama.com/) installiert und im Hintergrund laufend.
+___
 
-## Installation & Ausführung
+## Starten
 
 1. Notwendige Bibliotheken installieren:
  ```bash
@@ -32,14 +34,15 @@ python -m streamlit run app.py
 ```
 ## Projektstruktur
 
- app.py: Hauptanwendung mit der Klasse RAGSystem und der Streamlit-UI.
+ app.py → Hauptanwendung und UI.
 
- faiss_index.index: Die indizierten Vektordaten.
+ embedding_faiss.py → erstellt den Index.  
 
- quellen.json: Die aufbereiteten Textabschnitte und Metadaten.
+ faiss_index.index → gespeicherte Daten.
  
- embedding_faiss.py: Skript zur Erstellung des Index.
+ quellen.json → Textdaten.
 
 
 ## Nutzung
-Nach dem Start der UI über den Browser können Fragen im Textfeld eingegeben werden. Das System sucht automatisch nach relevanten Informationen in der Wissensbasis und liefert eine durch das LLM generierte Antwort inklusive der verwendeten Quellenangaben.
+Nach dem Start öffnet sich die App im Browser.  
+Einfach eine Frage eingeben, und das System gibt eine Antwort mit passenden Quellen zurück.  
