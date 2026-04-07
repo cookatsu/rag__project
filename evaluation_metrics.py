@@ -6,9 +6,13 @@ fragen = [
     "Warum ist häufiges Kaufen von Kleidung problematisch?",
     "Welche Umweltprobleme verursacht die Textilindustrie?"
 ]   
-treffer = [1, 1, 1, 1, 1, 1]
-precision_werte = [0.8, 0.8, 0.8, 0.6, 0.8, 0.8]
-hit_rate = sum(treffer) / len(treffer)
-precision_avg = sum(precision_werte) / len(precision_werte)
-print("Hit Rate@5:", hit_rate)
-print("Precision@5:", precision_avg)
+#also unter top k mind 1 relev chunk
+erfolg = [1, 1, 1, 1, 1, 1]
+
+#geschätzte anteil relevanter chunks je frage:
+genauigkeit = [0.8, 0.8, 0.8, 0.6, 0.8, 0.8]
+#durchschnittwerte:
+trefferquote = sum(erfolg)/len(erfolg)
+durchschnitt_precision = sum(genauigkeit)/len(genauigkeit)
+print("Hit Rate@5:", trefferquote)
+print("Precision@5:", durchschnitt_precision)

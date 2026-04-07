@@ -13,8 +13,10 @@ class RAGSystem:
             self.data = json.load(f)
 
     def get_context(self, query, k=5):
+        #embediing für die nutzerfrage
         query_embedding = self.model.encode([query])
         query_embedding = np.array(query_embedding).astype('float32')
+        #ähnl stelle im faiss finden
         distances, indices = self.index.search(query_embedding, k)
         context_parts = []
         sources = []
@@ -30,8 +32,8 @@ class RAGSystem:
 
     def generate_answer(self, query, context_text, ollama_model="llama3"):
         prompt = f"""
-        Beantworte die Frage basierend nur auf dem bereitgestellten Kontext.
-        Falls die Antwort nicht im Kontext steht, sage dass du es nicht weißt.
+        Beantworte die Frage nur anhand des Kontexts.
+        Wenn du dir nicht sicher bist oder es nicht im Kontext steht sag, dass du es nicht weißt.
         Kontext:
         {context_text}
         Frage:
@@ -39,27 +41,22 @@ class RAGSystem:
         Antwort:
         """
         try:
+            #anfrage an ollama schicken
             response = requests.post(
                 "http://localhost:11434/api/generate",
                 json={"model": ollama_model, "prompt": prompt, "stream": False},
                 timeout=60
              )
             return response.json().get("response", "Keine Antwort erhalten.")
-        except:
+        except Exception:
             return "Fehler: Verbindung zu Ollama fehlgeschlagen."
 
 def main():
     st.set_page_config(page_title="RAG Knowledge Assistant", page_icon="💬", layout="centered")
-    st.markdown("""
-        <style>
-        .stApp { background-color: #f8f9fa; }
-        .stChatMessage { border-radius: 10px; margin-bottom: 10px; }
-        </style>
-    """, unsafe_allow_html=True)
+  
 
-    st.title("💬 RAG Knowledge Assistant")
-    st.caption("KI-gestützte Antworten basierend auf Ihrer Wissensdatenbank")
-
+    st.title("Nachhaltige Mode – Frageassistent")
+    st.caption("Antworten basierend auf ausgewählten Quellen zur Textilindustrie")
     @st.cache_resource
     def init_rag():
         return RAGSystem()
@@ -81,15 +78,14 @@ def main():
                     for s in message["sources"]:
                         st.write(f"- {s['titel']} ({s['quelle']})")
                         st.write(s["url"])
-
-    if prompt := st.chat_input("Stellen Sie eine Frage..."):
-
+#generiert antwort
+    if prompt := st.chat_input("Ihre Frage zur nachhaltigen Mode..."):
         st.session_state.messages.append({"role": "user", "content": prompt})
         with st.chat_message("user"):
             st.markdown(prompt)
 
         with st.chat_message("assistant"):
-            with st.spinner("Suche läuft..."):
+            with st.spinner("Suche relevante Informationen..."):
                 context_parts, sources = rag.get_context(prompt)
                 answer = rag.generate_answer(prompt, "\n".join(context_parts))
                 
