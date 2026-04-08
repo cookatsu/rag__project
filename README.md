@@ -1,6 +1,6 @@
 # Praxisprojekt: Retrieval-Augmented Generation (RAG) System
 
-In diesem Projekt habe ich ein einfaches System gebaut, das Fragen auf Basis von lokalen Daten beantwortet.  
+In diesem Projekt haben wir ein einfaches System gebaut, das Fragen auf Basis von lokalen Daten beantwortet.  
 Es kombiniert eine Suche in Texten mit einem Sprachmodell (LLM), um passende Antworten zu geben.  
 
 ## Systemarchitektur
